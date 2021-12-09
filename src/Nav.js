@@ -9,7 +9,7 @@ class Nav extends React.Component{
 return  <div> 
     <nav>
       
-          <h3> Logo </h3>
+          <h3 > Lisandro Neris's Portfolio </h3>
 
           <ul className= "nav-links">
             <Link to= '/about' style={{ textDecoration: 'none', color: 'white' }}> 
