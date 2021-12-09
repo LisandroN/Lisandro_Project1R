@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.54021692.chunk.css",
-    "main.js": "./static/js/main.68d3d6f9.chunk.js",
-    "main.js.map": "./static/js/main.68d3d6f9.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.7478ee9e.js",
-    "runtime-main.js.map": "./static/js/runtime-main.7478ee9e.js.map",
-    "static/js/2.31b82938.chunk.js": "./static/js/2.31b82938.chunk.js",
-    "static/js/2.31b82938.chunk.js.map": "./static/js/2.31b82938.chunk.js.map",
-    "static/js/3.4dcf21d5.chunk.js": "./static/js/3.4dcf21d5.chunk.js",
-    "static/js/3.4dcf21d5.chunk.js.map": "./static/js/3.4dcf21d5.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.54021692.chunk.css.map": "./static/css/main.54021692.chunk.css.map",
-    "static/js/2.31b82938.chunk.js.LICENSE.txt": "./static/js/2.31b82938.chunk.js.LICENSE.txt",
-    "static/media/LisandroNeris.48b8dd29.jpg": "./static/media/LisandroNeris.48b8dd29.jpg"
+    "main.css": "/Lisandro_Project1R/static/css/main.54021692.chunk.css",
+    "main.js": "/Lisandro_Project1R/static/js/main.fbb0b13f.chunk.js",
+    "main.js.map": "/Lisandro_Project1R/static/js/main.fbb0b13f.chunk.js.map",
+    "runtime-main.js": "/Lisandro_Project1R/static/js/runtime-main.b0b303b3.js",
+    "runtime-main.js.map": "/Lisandro_Project1R/static/js/runtime-main.b0b303b3.js.map",
+    "static/js/2.deb49d06.chunk.js": "/Lisandro_Project1R/static/js/2.deb49d06.chunk.js",
+    "static/js/2.deb49d06.chunk.js.map": "/Lisandro_Project1R/static/js/2.deb49d06.chunk.js.map",
+    "static/js/3.4dcf21d5.chunk.js": "/Lisandro_Project1R/static/js/3.4dcf21d5.chunk.js",
+    "static/js/3.4dcf21d5.chunk.js.map": "/Lisandro_Project1R/static/js/3.4dcf21d5.chunk.js.map",
+    "index.html": "/Lisandro_Project1R/index.html",
+    "static/css/main.54021692.chunk.css.map": "/Lisandro_Project1R/static/css/main.54021692.chunk.css.map",
+    "static/js/2.deb49d06.chunk.js.LICENSE.txt": "/Lisandro_Project1R/static/js/2.deb49d06.chunk.js.LICENSE.txt",
+    "static/media/LisandroNeris.48b8dd29.jpg": "/Lisandro_Project1R/static/media/LisandroNeris.48b8dd29.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7478ee9e.js",
-    "static/js/2.31b82938.chunk.js",
+    "static/js/runtime-main.b0b303b3.js",
+    "static/js/2.deb49d06.chunk.js",
     "static/css/main.54021692.chunk.css",
-    "static/js/main.68d3d6f9.chunk.js"
+    "static/js/main.fbb0b13f.chunk.js"
   ]
 }
